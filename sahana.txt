@@ -3,3 +3,5 @@ tns
 
 Github commands
 push,pull,clone
+
+Editing in github

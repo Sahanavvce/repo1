@@ -1,3 +1,5 @@
 sahana
 tns
 
+Github commands
+push,pull,clone
